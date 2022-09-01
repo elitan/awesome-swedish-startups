@@ -1,6 +1,4 @@
-# Awesome Swedish Startups
-
-![Awesome](https://awesome.re/badge-flat.svg)
+# Swedish Startups
 
 ---
 
